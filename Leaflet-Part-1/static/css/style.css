@@ -3,6 +3,10 @@ body {
   margin: 0;
 }
 
+i {
+
+  background: white;
+}
 #map,
 body,
 html {
